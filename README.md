@@ -1,7 +1,7 @@
 
 
 
-    ![programmer](https://user-images.githubusercontent.com/36810715/187046895-93b46fbb-e937-4e82-8102-3c094c62a049.gif)
+![programmer](https://user-images.githubusercontent.com/36810715/187046895-93b46fbb-e937-4e82-8102-3c094c62a049.gif)
 
 A seasoned .NET developer with over 5 years of experience in creating high-quality, scalable and robust software applications.
 My experience lies in .NET 5 and upper versions, Angular, Blazor, JavaScript and SQL Server. 
