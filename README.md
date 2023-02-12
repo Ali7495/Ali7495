@@ -1,14 +1,18 @@
 
 
 
-![programmer](https://user-images.githubusercontent.com/36810715/187046895-93b46fbb-e937-4e82-8102-3c094c62a049.gif)
+    ![programmer](https://user-images.githubusercontent.com/36810715/187046895-93b46fbb-e937-4e82-8102-3c094c62a049.gif)
 
+A seasoned .NET developer with over 5 years of experience in creating high-quality, scalable and robust software applications.
+My experience lies in .NET 5 and upper versions, Angular, Blazor, JavaScript and SQL Server. 
 
-- 🔭 I’m currently working on **My own project to learn new things and use them.**
+  😊 Feel free to reach out to me if you have any questions or if you're interested in working together on a project.
 
-- 🌱 I’m currently learning **Microservices and Angular**
+- 🔭 I’m currently working on a **Production Planning and Control application**
 
-- 💬 Ask me about **.Net, C#, Software Engineering**
+- 🌱 I’m currently learning **more and more about things I've already known**
+
+- 💬 Ask me about **my projects in the repositories**
 
 - 📫 How to reach me **allifakhry@gmail.com**
 
